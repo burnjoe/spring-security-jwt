@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: security
+    data:
+        mongodb:
+            uri: 
+            database: lmsdb
